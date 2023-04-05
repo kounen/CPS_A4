@@ -89,4 +89,3 @@ plt.show()
 # Create a csv file for each dataframe
 df.to_csv('df.csv', index=False)
 agent_df.to_csv('agent_df.csv', index=False)
-os_counts.to_csv('os_counts.csv', index=False)
